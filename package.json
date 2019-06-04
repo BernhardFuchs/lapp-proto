@@ -1,0 +1,29 @@
+{
+  "name": "lapp-proto",
+  "version": "1.0.0",
+  "description": "Prototype for Lightning Network apps",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BernhardFuchs/lapp-proto.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BernhardFuchs/lapp-proto/issues"
+  },
+  "homepage": "https://github.com/BernhardFuchs/lapp-proto#readme",
+  "devDependencies": {
+    "@types/jest": "^24.0.13",
+    "@types/node": "^12.0.4",
+    "jest": "^24.8.0",
+    "nodemon": "^1.19.1",
+    "rimraf": "^2.6.3",
+    "ts-jest": "^24.0.2",
+    "ts-node": "^8.2.0",
+    "typescript": "^3.5.1"
+  }
+}
