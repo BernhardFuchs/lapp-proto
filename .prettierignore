@@ -1,0 +1,6 @@
+# files which are ignored by prettier
+package.json
+Readme.md
+tslint.json
+tsconfig.json
+LICENCE
