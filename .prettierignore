@@ -1,6 +1,10 @@
-# files which are ignored by prettier
-package.json
-Readme.md
-tslint.json
-tsconfig.json
-LICENCE
+# ignore everything
+**
+
+# allow folders
+!/src/**
+!/jest.config.js
+
+# ignore files in allowed folders
+# e.g:
+# **/*.log
